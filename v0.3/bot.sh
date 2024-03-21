@@ -19,7 +19,7 @@ plate="************************************************"
 echo "$plate"
 echo "After Loop opened Note: to exit you use CTRL+C"
 echo "$plate";echo ""
-echo "ver: 0.1"
+echo "ver: 0.3"
 echo """                                  
                                            ((O))
 ____________________________________________/
