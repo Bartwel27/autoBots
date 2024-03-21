@@ -9,7 +9,18 @@ We have multiple versions of autobots select any
 pkg install wget
 ```
 
-version 0.1
+#### version 0.1
 ```
 wget https://bartwel27.github.io/autoBots/v0.1/bot.sh
+```
+
+#### version 0.2
+```
+wget https://bartwel27.github.io/autoBots/v0.2/bot.sh
+```
+
+
+#### version 0.3
+```
+wget https://bartwel27.github.io/autoBots/v0.3/bot.sh
 ```
