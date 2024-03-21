@@ -24,3 +24,7 @@ wget https://bartwel27.github.io/autoBots/v0.2/bot.sh
 ```
 wget https://bartwel27.github.io/autoBots/v0.3/bot.sh
 ```
+
+```
+chmod +x bot.sh && ./bot.sh
+```
