@@ -33,7 +33,7 @@ wget https://bartwel27.github.io/autoBots/v0.4/bot.sh
 
 
 ```
->chmod +x bot.sh
->bash bot.sh && ./bot.sh
+chmod +x bot.sh
+bash bot.sh && ./bot.sh
 ```
 
