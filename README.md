@@ -1,6 +1,6 @@
 # autoBots
 
-The autobots provides an easy way to download and update packages in a terminal, we've made installation and upgrading of commands easy by allowing users to update, upgrade and install any command, repostory and files just by type a name of what you want to get
+The autobots provides an easy way to download and update packages in a terminal, we've made installation and upgrading of commands easy by allowing users to update, upgrade and install any command, repostory and files
 
 
 ## Main installation
