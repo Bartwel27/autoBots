@@ -1,9 +1,6 @@
 # autoBots
 
-![Screenshot_20240405-135315_2](https://github.com/Bartwel27/autoBots/assets/81015407/c281ffe7-bd46-4492-9bc4-4f8b78723cde)
-
-
-The autobots provides an easy way to download packages in a terminal, we've made installation and upgrading of commands easy by allowing users to update, upgrade and install any command, repostory and files.
+The autobots provides an easy way to download and update packages in a terminal, we've made installation and upgrading of commands easy by allowing users to update, upgrade and install any command, repostory and files just by type a name of what you want to get
 
 
 ## Main installation
