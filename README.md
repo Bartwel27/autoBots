@@ -1,9 +1,9 @@
 # autoBots
 
-The autobots provides an easy way to download and update packages in a terminal, we've made installation and upgrading of commands easy by allowing users to update, upgrade and install any command, repostory and files
+This Package Updater Script streamlines the process of updating and upgrading packages in your terminal, making it easy to keep your packages current and ensure you have the latest versions installed. With a single command, the script updates package lists to ensure you have the latest version information, and then upgrades all packages to their latest versions. This simplifies the update and upgrade process, saving you time and effort. To use the script, simply run it in your terminal. This script is designed for use with insert your Linux distribution or environment, and is a convenient tool for anyone looking to keep their packages up-to-date with minimal fuss.
 
 
-## Main installation
+___Main installation___
 ```
 pkg install wget
 ```
