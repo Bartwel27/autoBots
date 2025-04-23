@@ -5,7 +5,7 @@ This Package Updater Script streamlines the process of updating and upgrading pa
 
 ___Main installation___
 ```
-pkg install wget
+pkg install wget or sudo apt install wget
 ```
 
 > version 0.1
@@ -29,6 +29,10 @@ wget https://bartwel27.github.io/autoBots/v0.3/bot.sh
 wget https://bartwel27.github.io/autoBots/v0.4/bot.sh
 ```
 
+> version 0.5
+```
+wget https://bartwel27.github.io/autoBots/v0.5/bot.sh
+```
 
 
 ```
